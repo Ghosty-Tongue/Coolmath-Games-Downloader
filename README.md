@@ -1,6 +1,6 @@
 ## Coolmath Games Downloader
 
-A Python script to download games from Coolmath Games with a progress bar.
+A Python script to download games from Coolmath Games.
 
 ## Features
 
